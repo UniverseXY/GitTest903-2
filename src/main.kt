@@ -7,4 +7,6 @@ fun main() {
     mc.doAction()
     val k = a()
     k.tt()
+    val tc1  = testClass1()
+    tc1.PrintSomething()
 }
